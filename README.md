@@ -1,10 +1,10 @@
 Zomato Data Analysis Project
-📌 Project Overview
+**Project Overview**
 
 This project performs data analysis on Zomato restaurant data using Python.
 The analysis focuses on restaurant types, ratings, votes, approximate cost for two people, and online/offline ordering patterns.
 
-🛠️ Technologies Used
+**Technologies Used**
 
 Python
 Pandas
@@ -12,9 +12,9 @@ NumPy
 Matplotlib
 Seaborn
 
-📊 Analysis Performed
+**Analysis Performed**
 
-The project includes:
+**The project includes:**
 
 Data loading and exploration
 Data cleaning and preprocessing
@@ -25,7 +25,7 @@ Approximate cost analysis for two people
 Online vs. offline order rating comparison
 Heatmap analysis of restaurant types and online orders
 
-🔍 Key Insights
+**Key Insights**
 
 Dining restaurants make up the majority of the restaurant types.
 Dining restaurants received the maximum number of votes.
